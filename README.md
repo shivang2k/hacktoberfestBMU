@@ -7,7 +7,7 @@
 ## Give a star 🌟. Get your projects merged quickly on valid pull requests.
 ## Happy coding
 
-- Anyone can add any type of valid html-css web page depends on you.
+- Anyone can add any type of valid code, depends on you. (in any language)
 
 - You can add any small projects you have made.
 
@@ -34,7 +34,7 @@ Now clone the forked repository to your system. Go to your GitHub account, open 
 *if you want to use the terminal, use the following commands*
 after you fork the repository , open the terminal type the given command
 ```
-git clone https://github.com/{your-github-username}/Hacktober-2020.git
+git clone https://github.com/{your-github-username}/hacktoberfestBMU.git
 
 ```
 
