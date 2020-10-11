@@ -1,0 +1,162 @@
+<html>
+
+<head>
+
+<style>
+
+input[type=text] {
+
+  width: 40%;
+
+  padding: 12px 20px;
+
+  box-sizing: border-box;}
+
+</style>
+
+</head>
+
+<body>
+
+ 
+
+<p></p>
+
+ 
+
+<form>
+
+  <label for="fname"> 1.Please select one of the following options regarding your current appointment:</label>
+
+ 
+
+  
+
+ <input type="text" id="name">
+
+ 
+
+  <lable>
+
+  <p>[The drop down menu in question 2 contains six choices: Astronomy: Biology: chemistry:computer science: physics: Eniviromental science]</p></lable>
+
+  <label for="lname"> 2. which department are you affilated with</label>
+
+  <input type="text" id="lname" name="lname">
+
+  <p>3. Please check any of the e-sources that you have used in the past month.</p>
+
+     <input type="checkbox" id="mc" name="question3" value="img">Google<br>
+
+     <input type="checkbox" id="mc" name="question3" value="src">Site Citation Index<br>
+
+     <input type="checkbox" id="mc" name="question3" value="href">GeoRef<br>
+
+     <input type="checkbox" id="mc" name="question3" value="alt">INSPEC<br>
+
+     <input type="checkbox" id="mc" name="question3" value="img">Biosis<br>
+
+     <input type="checkbox" id="mc" name="question3" value="src">PubMed<br>
+
+     <input type="checkbox" id="mc" name="question3" value="href">Science Direct<br>
+
+     <input type="checkbox" id="mc" name="question3" value="alt">Safari<br>
+
+  <label for="lname"></label>
+
+ 
+
+  <p>4. how often do you use science citation index? atleast:"</p>
+
+     <input type="radio" id="mc" name="question3" value="img">Never<br>
+
+     <input type="radio" id="mc" name="question3" value="src">Once a semester<br>
+
+     <input type="radio" id="mc" name="question3" value="href">Once a month<br>
+
+     <input type="radio" id="mc" name="question3" value="alt">Once a week<br>
+
+     <input type="radio" id="mc" name="question3" value="img">Once a day<br>
+
+    
+
+     
+
+     <p>5.how often do you use google At least:</p>
+
+     <input type="radio" id="mc" name="question3" value="img">Never<br>
+
+     <input type="radio" id="mc" name="question3" value="src">Once a semester<br>
+
+     <input type="radio" id="mc" name="question3" value="href">Once a month<br>
+
+     <input type="radio" id="mc" name="question3" value="alt">Once a week<br>
+
+     <input type="radio" id="mc" name="question3" value="img">Once a day<br>
+
+    
+
+     
+
+     
+
+     
+
+   <p>5.how satisfied are you with the e-journal selection in science direct?</p>
+
+ 
+
+     <input type="radio" name="question3" value="img">very satisfied<br>
+
+     <input type="radio" name="question3" value="src">somewhat satisfied<br>
+
+     <input type="radio" name="question3" value="href">selection is so-so<br>
+
+     <input type="radio" name="question3" value="alt">does not meet my research need<br>
+
+     <input type="radio" name="question3" value="img"> i do not use science direct<br>
+
+    
+
+      <label for="lname"><p>7.  do you have any suggestion for the new e-journal or e-books?</label></p>
+
+  <input type="text" id="lname" name="lname">
+
+ 
+
+     <h1> Optional questions</h1>
+
+    
+
+     if  this questionnarie, please supply the following information you are opoen to having one of the liabrary staff contact you as a follow-up to supply the following information:
+
+      <label>  <p> Your Name:</label></p>
+
+      <input type="text" id="name">
+
+    
+
+      <label><p> your email address : </p></label>
+
+  <p>We thank you for taking time to complete this survey. Please now click the Send button to submit your responses.</p>
+
+ 
+
+  <input type="submit" value="Submit">
+
+  <input type="submit" value="Clear form">
+
+ 
+
+ 
+
+ 
+
+</form>
+
+ 
+
+</body>
+
+</html>
+
